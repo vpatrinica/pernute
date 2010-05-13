@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="FullSignature">
+  <Class Name="NetGen">
+    <Position X="0.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CIAAACAAACBKBAAAAAAAACAAEAAAAgBAYAAQIAAAAAA=</HashCode>
+      <FileName>netgen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CResbufPtr">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgAAABAAAAAAIAAgAAAABAAAAAAAAAAAAAAECAIAAAA=</HashCode>
+      <FileName>ResbufPtr.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputReader">
+    <Position X="3.25" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAQgAABAAAAABACAAAACAACAAAAAA=</HashCode>
+      <FileName>InputReader.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FramePointsBuilder">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FramePointsBuilder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
